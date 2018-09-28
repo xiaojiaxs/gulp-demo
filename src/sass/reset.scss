@@ -1,0 +1,36 @@
+html{
+	margin:0;
+	padding:0;
+}
+body{
+	@extend html;
+	font:{
+		family:'微软雅黑';
+		size:12px;
+	}
+	color:#999;
+}
+h1,h2,h3,h4,h5,h6{
+	@extend html;
+	font:{
+		size:14px;
+		weight:normal;
+	}
+}
+input,button,select,p,textarea,form{
+	@extend html;
+}
+ul,li,ol,dt,dd,dl{
+	@extend html;
+	list-style:none;
+}
+a{
+	text-decoration: none;
+	color:#000;
+}
+i{
+	font-style:normal;
+}
+b,strong{
+	font-weight:normal;
+}
