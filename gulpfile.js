@@ -10,6 +10,7 @@ var base64=require("gulp-base64");//图片转码
 var inject=require("gulp-inject");//文件路径注入
 var connect=require("gulp-connect");//webserver
 //注释注释哈哈哈哈哈哈哈
+//钱钱钱钱钱钱
 
 
 
