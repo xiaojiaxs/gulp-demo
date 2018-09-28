@@ -9,7 +9,7 @@ var imagemin=require("gulp-imagemin");//图片文件压缩
 var base64=require("gulp-base64");//图片转码
 var inject=require("gulp-inject");//文件路径注入
 var connect=require("gulp-connect");//webserver
-//注释注释
+//注释注释哈哈哈哈哈哈哈
 
 
 
