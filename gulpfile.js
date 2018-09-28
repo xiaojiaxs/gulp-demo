@@ -8,7 +8,7 @@ var uglify=require("gulp-uglify");//js文件压缩，混淆
 var imagemin=require("gulp-imagemin");//图片文件压缩
 var base64=require("gulp-base64");//图片转码
 var inject=require("gulp-inject");//文件路径注入
-var connect=require("gulp-connect");
+var connect=require("gulp-connect");//webserver
 
 
 
